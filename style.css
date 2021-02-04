@@ -1,0 +1,10 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(223, 60, 60, 0.55);
+}
+
+.p-2, .bd-highlight, .col, .col-5, .col-6, .col-sm, .col-lg-2, .col-md-auto{
+    background-color: lightblue;
+    color:#333;
+    border-radius:3px;
+    margin:0.5%;
+}
